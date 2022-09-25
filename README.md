@@ -10,4 +10,4 @@ Harika, birkaç noname bize de salladığına göre prim vermeden cevap verelim 
 <img src="https://cdn.discordapp.com/attachments/913830657422135386/999239154451873792/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/964955034892783646/1001069045375828038/unknown.png">
 
-Güncellemeler geldikçe görsel eklerim. Bot yaptırmak için Lésty#1925 (id: 825761581396656148) hesabından ulaşabilirsiniz!
+Güncellemeler geldikçe görsel eklerim. Bot yaptırmak için Lésty#0001 (id: 825761581396656148) hesabından ulaşabilirsiniz!
